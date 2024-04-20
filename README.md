@@ -3,6 +3,7 @@ This is a sample repository / sample app for the Git course
 
 ## GUIs
 * This change made by VS Code.
+* This change made by Visual Studio 2022 Community Edition.
 
 ## Roadmap
  * Add new features
